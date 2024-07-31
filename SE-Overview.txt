@@ -1,0 +1,58 @@
+                     
+
+          ****************************************** SE - Overview Of It Industry ************************************************
+
+
+
+
+
+          1) =:> Software engineers create web applications, mobile apps, robots, operating systems, and network systems. 
+
+          They develop software solutions that meet their companies' needs and expectations. Note that the terms "software engineer" and "
+
+          software developer" are used interchangeably in the industry, but these positions' responsibilities vary slightly.
+
+
+
+
+        2) What Does a Software Engineer Do?
+
+
+         *  Computer software engineers develop programs and operating systems for computers. They work with system programmers, analysts, and other 
+
+                    engineers to design systems, project capabilities, and determine performance interfaces.
+
+        *  Computer software engineers also analyze user needs, provide consultation services to discuss design elements, and coordinate software 
+
+                    installation.Designing software systems requires engineers to consider mathematical models and scientific analysis to project outcomes.
+
+
+
+
+
+
+      3) Main Duties of Software Engineers
+
+
+       * System Design:->  System design involves defining the outline for web applications and products efficiently and clearly. These designs provide 
+
+         information and data in the coding framework for the software developer to make the product.
+
+
+       *  Establish New Documentation:-> All new technology requires documentation for people to understand its functionality. This might look like creating 
+
+          or updating products and supporting documentation. The software engineer writes this supporting documentation.
+
+
+
+
+       *  Maintain Software Functionality:-> Software engineers maintain existing software and create new software. This includes making 
+
+          updates to align with the 
+
+          latest industry and company standards, troubleshooting problems, and brainstorming future improvements. Maintenance is equally as important as 
+
+          writing new code.
+
+
+
